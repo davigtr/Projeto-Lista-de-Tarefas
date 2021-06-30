@@ -205,6 +205,6 @@ left: 0;
   align-items: center;
 }
 
-#ol{
+#ol li{
   list-style:decimal;
 }
